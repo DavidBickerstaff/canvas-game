@@ -1,2 +1,2 @@
 # canvas-game
-A repository for a test game
+A repository for a test game.
